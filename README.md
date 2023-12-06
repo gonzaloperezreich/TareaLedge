@@ -7,11 +7,10 @@ El propósito inicial de este código era desarrollar un reproductor de video ca
 Además, se incorporó una interfaz de registro y inicio de sesión de usuarios como una mejora adicional. Esta adición se inspiró en la idea de que, en una aplicación de este tipo, múltiples personas podrían acceder al mismo video. Registrar el número total de reproducciones del video a nivel global resultó ser una funcionalidad valiosa. En otras palabras, el contador que se muestra debajo del video es compartido por todos los usuarios, reflejando el total global de reproducciones.
 
 ## Ejecución:
-Para hacer correr el código localmente debes ejecutar primero:
-npm install -g npm (para instalar las dependencias de manera global)
+Para hacer correr el código localmente debes ejecutar:
 
-luego:
-npm run serve
+- npm install -g npm (para instalar las dependencias de manera global)
+- npm run serve
 
 
 ## Ejecución con problemas
