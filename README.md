@@ -17,10 +17,10 @@ npm run serve
 ## Ejecución con problemas
 Personalmente tuve un par de problemas con npm así que dejo los pasos a seguir si no les compila con las instrucciones de ejecución (todo desde superUser):
 
-- npm install -g npm (para instalar las dependencias de manera global)
-- npm install firebase --save  
--export NODE_OPTIONS=--openssl-legacy-provider
--sudo npm cache clean -f 
+- sudo npm install
+- sudo npm install -g npm (para instalar las dependencias de manera global)
+- export NODE_OPTIONS=--openssl-legacy-provider
+- sudo npm cache clean -f 
 - npm run serve   
 
 
