@@ -1,3 +1,6 @@
+## App deployed link:
+https://656e1a6094919204523913cb--taupe-crisp-a65a24.netlify.app
+
 ## Descripción:
 El propósito inicial de este código era desarrollar un reproductor de video capaz de registrar las reproducciones que excedieran el 60% de la duración del video. Para lograrlo, se implementó Supabase como una base de datos externa para almacenar este valor.
 
